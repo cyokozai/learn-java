@@ -1,5 +1,3 @@
-package classdeclaration;
-
 class Car {
     int car_number;
     double gasoline;
